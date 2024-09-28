@@ -1,4 +1,8 @@
 {
+  "metadata": {
+    "name": "Fujitsu",
+    "type": "ac"
+  },
   "format": {
     "preamble": [
       8,
